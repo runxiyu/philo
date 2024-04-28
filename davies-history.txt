@@ -1,7 +1,7 @@
-2 - Steve Davies - History
+Davies - History
 
-[These are lecture notes written by Runxi Yu as a student. It does not
-reflect the exact words of the professor.]
+These are lecture notes to one of Dr. Stephen Davies's lectures at the
+John Locke Junior Summer School in 2023.
 
 There will be four lectures in this series. Each focuses on one type of
 historical writing. We'll be taking a look at the history of the world,
@@ -66,4 +66,4 @@ natural resources anyways.
 
 History is generally recursive. It's not completely cyclic, nor is it
 linear. Most things social-political repeat, except really big changes
-(which in my (note-taker's) opinion includes the change to democracy).
+(which in my (Runxi's) opinion includes the change to democracy).

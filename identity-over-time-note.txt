@@ -1,0 +1,31 @@
+In colloquial language and everyday life people generally assume that objects
+and people have a permanent identity over time. This is consequentially
+important as social institutions including but not limited to contracts,
+criminal justice, recognition of achievements, etc., expect that a person may
+be held responsible and accountable for their actions, and may be attributed
+for their accomplishments. Thus, consequentially speaking, normal functioning
+of society expect and assume an enduring identity for their proper functioning.
+
+The mere necessity of an enduring identity does not justify its ontological
+correctness, however. This essay seeks to explore the diachronic problem of
+personal identity through the perspectives of <++>.
+
+The most obvious criteria for personal identity is the physical human body’s
+preservation. While most cells do regenerate throughout the life of a human
+being, Carbon-14 dating has identified that occipital neurons persist
+throughout a human’s life [1]. We may therefore pseudo-formally define the body
+criteria of identity endurance with essential cells that stay consistent
+throughout a person’s life.
+
+For the sake of completeness in case provisional science turns out to be
+incorrect, let us consider the possibility where all of our cells are in fact
+replaced, such as in the classic example of the Ship of Theseus where parts of
+the ship are constantly replaced until no original parts remain.
+
+Biological and physical theories of personal identity, or otherwise that of a
+collective object, that base the status of identity on the identity of its
+constituent parts, assume enduring identity of their individual constituent
+parts. Although there is a realistically plausible notion of one cell staying
+as the same cell throughout time, and perhaps a notion of molecules and atoms
+staying the same throughout time, this logic would be hard to apply to
+individual subatomic particles.
