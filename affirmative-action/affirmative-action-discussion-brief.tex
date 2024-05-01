@@ -1,0 +1,135 @@
+\documentclass[12pt, a4paper]{extarticle}
+
+\title{Affirmative Action}
+\author{Runxi~Yu}
+\date{\today}
+
+\usepackage[head=14.5pt]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{tgschola}
+\usepackage{tgheros}
+\usepackage{blindtext}
+\usepackage{microtype}
+\usepackage[notes, backend=biber, useibid=true]{biblatex-chicago} % remove noibid when fixed capitalization
+\addbibresource{affirmative-action-bibliography.bib}
+
+\usepackage{scrlayer-scrpage}
+\addtokomafont{pagehead}{\itshape\small}
+\clearscrheadfoot
+\pagestyle{scrheadings}
+\rehead{Affirmative Action Discussion Brief}
+\lohead{Affirmative Action Discussion Brief}
+\lehead{\pagemark}
+\rohead{\pagemark}
+
+\usepackage{graphicx}
+\newcommand\fakesc[1]{\fakeschelper#1 \relax\relax}
+\def\fakeschelper#1 #2\relax{%
+  \fakeschelphelp#1\relax\relax%
+  \if\relax#2\relax\else\ \fakeschelper#2\relax\fi%
+}
+\def\Hscale{.83}\def\Vscale{.75}\def\Cscale{1.00}
+\def\fakeschelphelp#1#2\relax{%
+  \ifnum`#1=\lccode`#1\relax\scalebox{\Hscale}[\Vscale]{\char\uccode`#1}\else%
+    \scalebox{\Cscale}[1]{#1}\fi%
+  \ifx\relax#2\relax\else\fakeschelphelp#2\relax\fi}
+
+\newcommand{\nopage}{\_\_\_\_}
+\newrobustcmd*{\Runcite}{\bibsentence\runcite}
+
+\begin{document}
+\maketitle
+
+\runcite{harvard} overruled \runcite{grutter}, and ``invalidated'' Harvard's admissions process's use of race, ``under the Equal Protection Clause of the Fourteenth Amendment'', \runcite[\nopage{} (slip op., at 22)]{harvard}. This marks the beginning of the end of racial affirmative action in the United States. I suggest that our discussion may take inspiration from these relevant cases, but instead of attempting to reach a judgement on the legal question, we may simply focus on a generalized discussion on whether racial affirmative action is justified. In the following sections I will quote a few common arguments and present my questions and potential points of discussion.
+
+\begin{center}
+	I
+\end{center}
+
+In \runcite{bakke}, the university identified three reasons for their use of racial affirmative action that are relevant to a general discussion on affirmative action in education,  ``(i) reducing the historic deficit of traditionally disfavored minorities in medical schools […]; (ii) countering the effects of societal discrimination; […] and (iv) obtaining the educational benefits that flow from an ethnically diverse student body.'' \Runcite[306 (footnote and internal quotation marks omitted)]{bakke}. Justice Powell observed that (i) is insufficient because it was akin to ``[p]referring members of any one group for no reason other than race or ethnic origin'', the very definition of racial discrimmination, and that (ii) was insufficient because it was ``an amorphous concept of injury that may be ageless in its reach into the past'', \runcite[307]{bakke}. But Justice Powell recognized diversity as a compelling interest: ``[A] black student can usually bring something that a white person cannot offer.'' \Runcite[316]{bakke}.
+
+\pagebreak %%%
+\begin{center}
+	A
+\end{center}
+
+The \citetitle{harvard} court doesn't directly rule on whether diversity is a compelling interest for the purposes of strict scrutiny analysis. Rather, it emphasizes that ``universities [must] operate their race-based admissions programs in a manner that is sufficiently measurable to permit judicial [review] under the rubric of strict scrutiny.'' \Runcite[\nopage{} (slip op.\ 22)]{harvard} (quoting \Runcite[381]{fisher2} (\citetitle{fisher2})) (some internal quotation marks omitted). The \citetitle{harvard} court holds that the educational benefits that Harvard identified, \textit{i.e.} ``(1) training future leaders in the public and private sectors; (2) preparing graduates to adapt to an increasingly pluralistic society; (3) better educating its students through diversity; and (4) producing new knowledge stemming from diverse outlooks,'' are too vague and are not ``sufficiently coherent for the purposes of strict scrutiny.'' \Runcite[\nopage{} (slip op.\ 23) (internal quotation marks omitted)]{harvard}.
+
+Is there any way that the educational benefits of diversity could be measured? Would it simply be based on general-purpose statistical analysis (\textit{t}-tests?) or some other means?
+
+\begin{center}
+	B
+\end{center}
+
+The \citetitle{harvard} court also notes that the ``admissions programs fail to articulate a meaningful connection between the means they employ and the goals they pursue,'' \Runcite[\nopage{} (slip op.\ 24)]{harvard}, \textit{i.e.} there is no meaningful connection between the use of race in admissions and an academically-significant increase in student diversity.
+
+For example, it pointed out that the racial classifications used by Harvard are vague, \textit{e.g.} there is no differentiation between South Asian or East Asian students who are all classified as ``Asians'', \Runcite[\nopage{} (slip op.\ 24–25)]{harvard}, although these two groups aren't, in fact, that similar in terms of background.
+
+Furthermore, the court also objects the ``belief that minority students always (or even consistently) express some characteristic minority viewpoint on any issue.'' \Runcite[333 (internal quotation marks omitted)]{grutter}. ``In cautioning against ‘impermissible racial stereotypes,’ this Court has rejected the assumption that ‘members of the same racial group—regardless of their age, education, economic status, or the community in which they live—think alike…'\,'' \Runcite[308 (plurality opinion)]{schuette} (quoting \runcite[647]{shaw}).
+
+This has became key to the \citetitle{harvard} court's analysis—meaningful articulations of the the educational benefits of diversity are based on the diversity of \emph{viewpoint}. A student's background can, for sure, affect their viewpoint; but this background includes a variety of factors, and it is not clearly established how race clearly affects background and viewpoint outside of stereotypes.
+
+Are there specific academic benefits that only racial diversity could bring?
+
+\begin{center}
+	C
+\end{center}
+
+(Because of time limitations, I didn't research this section, and I am basing these points on superficial qualitative knowledge on race in American society.)
+
+Some colleges, including Harvard, claim that being in a race that is historically disadvantaged means that the student is more likely to be in a poorer socio-economic status, and improved education is significant in creating equality for the families of these students.
+
+Here, race is being used as a proxy for socio-economic status. I believe that race is not a particularly good proxy, not only because of its wide-ranging legal issues that would not be raised if socio-economic status is considered alone, but also because of its alleged ineffectiveness evident in \citetitle{harvard}. ``While Harvard professes interest in socioeconomic diversity, for example, SFFA points to trial testimony that there are 23 times as many rich kids on campus as poor kids.''  \Runcite[\nopage{} (\fakesc{Gorsuch}, J., concurring) (slip op., at 13)]{harvard} (internal quotation marks omitted).
+
+\begin{center}
+	D
+\end{center}
+
+``Passively eliminating race classifications did not suffice when \textit{de facto} seggregation persisted.'' \Runcite[\nopage{} (\fakesc{Sotomayor}, J., dissenting) (slip op., at 12)]{harvard} (quoting \runcite[440–442]{green}). The court previously has also stated that a school board ``had to do more than abandon its discriminatory purpose'', it ``had an affirmative responsibility to integrate.'' \Runcite[538]{brinkman}.
+
+Rather than just saying that affirmative action could be used to \emph{correct past wrongs}, perhaps out of (questionable notions of) collective responsibility, these are examples of arguments that affirmative action is necessary in furthering integration and countering societal discrimination.
+
+But of course, we live in a world that is vastly different from the world that existed during \citetitle{brown} and \citetitle{green}. I have not gone through the entirety of the Joint Appendices for \citetitle{harvard} and similar cases, but the prevalence of anything that could be considered ``segregation'' in society should be at a minimum, or at least on an entirely different level than that of the 1970s.
+
+Is there still a compelling interest in increasing integration?
+
+%\pagebreak %%%
+
+
+\begin{center}
+	E
+\end{center}
+
+``[A]ll race-conscious admissions programs [must] have a termination point''; they ``must have a logical end point''; their ``deviation from the norm of equal treatment'' must be ``a temporary matter''; ``[e]nshrining a permanent justification for racial preferences would offend this fundamental equal protection principle.'' \Runcite[342–343 (internal quotation marks omitted)]{grutter}.
+
+Affirmative action is a policy that adapts to changing social conditions. When should affirmative action end?
+
+\begin{center}
+	II
+\end{center}
+
+\begin{center}
+	A
+\end{center}
+
+``Admission is not an honor bestowed to reward superior merit or virtue. Neither the student with high test scores nor the student who comes from a disadvantaged minority group morally deserves to be admitted. Her Admission is justified insofar as it contributes to the social purpose the university serves, not because it rewards the student for her merit or virtue, independently defined.'' \Runcite[174]{justice}.
+
+To what extent do responsibilities of the state apply to universities? To  what extent should they have autonomy over admissions decisions?
+
+
+\begin{center}
+	B
+\end{center}
+
+``Harvard’s `holistic' admissions policy began in the 1920s when it was developed to exclude Jews.'' \Runcite[\nopage{} (\fakesc{Thomas}, J., concurring) (slip op., at 28)]{harvard}. See also Tr.\ of Oral Arg.\ in No.\ 20–1199, p.\ 50.
+
+Is there a viable way to ensure that such discrimination is not the goal of a review process that is supposed to be ``holistic''?\bigskip
+
+\begin{center}
+	III
+\end{center}
+
+These are all that I could think of for now. I haven't completely read Justice Sotomayor's or Justice Jackson's dissent to \citetitle{harvard} (the former is 69 pages long and is less logically structured which I don't have time for).
+
+%\printbibliography
+\end{document}
