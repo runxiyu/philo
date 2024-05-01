@@ -23,17 +23,6 @@
 \rohead{\pagemark}
 
 \usepackage{graphicx}
-\newcommand\fakesc[1]{\fakeschelper#1 \relax\relax}
-\def\fakeschelper#1 #2\relax{%
-  \fakeschelphelp#1\relax\relax%
-  \if\relax#2\relax\else\ \fakeschelper#2\relax\fi%
-}
-\def\Hscale{.83}\def\Vscale{.75}\def\Cscale{1.00}
-\def\fakeschelphelp#1#2\relax{%
-  \ifnum`#1=\lccode`#1\relax\scalebox{\Hscale}[\Vscale]{\char\uccode`#1}\else%
-    \scalebox{\Cscale}[1]{#1}\fi%
-  \ifx\relax#2\relax\else\fakeschelphelp#2\relax\fi}
-
 \newcommand{\nopage}{\_\_\_\_}
 \newrobustcmd*{\Runcite}{\bibsentence\runcite}
 
@@ -79,13 +68,13 @@ Are there specific academic benefits that only racial diversity could bring?
 
 Some colleges, including Harvard, claim that being in a race that is historically disadvantaged means that the student is more likely to be in a poorer socio-economic status, and improved education is significant in creating equality for the families of these students.
 
-Here, race is being used as a proxy for socio-economic status. I believe that race is not a particularly good proxy, not only because of its wide-ranging legal issues that would not be raised if socio-economic status is considered alone, but also because of its alleged ineffectiveness evident in \citetitle{harvard}. ``While Harvard professes interest in socioeconomic diversity, for example, SFFA points to trial testimony that there are 23 times as many rich kids on campus as poor kids.''  \Runcite[\nopage{} (\fakesc{Gorsuch}, J., concurring) (slip op., at 13)]{harvard} (internal quotation marks omitted).
+Here, race is being used as a proxy for socio-economic status. I believe that race is not a particularly good proxy, not only because of its wide-ranging legal issues that would not be raised if socio-economic status is considered alone, but also because of its alleged ineffectiveness evident in \citetitle{harvard}. ``While Harvard professes interest in socioeconomic diversity, for example, SFFA points to trial testimony that there are 23 times as many rich kids on campus as poor kids.''  \Runcite[\nopage{} (\textsc{Gorsuch}, J., concurring) (slip op., at 13)]{harvard} (internal quotation marks omitted).
 
 \begin{center}
 	D
 \end{center}
 
-``Passively eliminating race classifications did not suffice when \textit{de facto} seggregation persisted.'' \Runcite[\nopage{} (\fakesc{Sotomayor}, J., dissenting) (slip op., at 12)]{harvard} (quoting \runcite[440–442]{green}). The court previously has also stated that a school board ``had to do more than abandon its discriminatory purpose'', it ``had an affirmative responsibility to integrate.'' \Runcite[538]{brinkman}.
+``Passively eliminating race classifications did not suffice when \textit{de facto} seggregation persisted.'' \Runcite[\nopage{} (\textsc{Sotomayor}, J., dissenting) (slip op., at 12)]{harvard} (quoting \runcite[440–442]{green}). The court previously has also stated that a school board ``had to do more than abandon its discriminatory purpose'', it ``had an affirmative responsibility to integrate.'' \Runcite[538]{brinkman}.
 
 Rather than just saying that affirmative action could be used to \emph{correct past wrongs}, perhaps out of (questionable notions of) collective responsibility, these are examples of arguments that affirmative action is necessary in furthering integration and countering societal discrimination.
 
@@ -121,7 +110,7 @@ To what extent do responsibilities of the state apply to universities? To  what 
 	B
 \end{center}
 
-``Harvard’s `holistic' admissions policy began in the 1920s when it was developed to exclude Jews.'' \Runcite[\nopage{} (\fakesc{Thomas}, J., concurring) (slip op., at 28)]{harvard}. See also Tr.\ of Oral Arg.\ in No.\ 20–1199, p.\ 50.
+``Harvard’s `holistic' admissions policy began in the 1920s when it was developed to exclude Jews.'' \Runcite[\nopage{} (\textsc{Thomas}, J., concurring) (slip op., at 28)]{harvard}. See also Tr.\ of Oral Arg.\ in No.\ 20–1199, p.\ 50.
 
 Is there a viable way to ensure that such discrimination is not the goal of a review process that is supposed to be ``holistic''?\bigskip
 
