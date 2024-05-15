@@ -1,0 +1,9 @@
+vim: tw=72 colorcolumn=72
+
+- The philosopher as a collective in terms of the development of
+  philosophical knowledge; philosophical truth is universal.
+- God as the father of Evil
+- Differentiating between the theological and the moral question of
+  "good and evil"
+  - "Under what conditions did man invent for himself those judgements
+    of value, Good and Evil?"
