@@ -1,0 +1,28 @@
+\documentclass{scrartcl}
+
+\usepackage[T1]{fontenc}
+\usepackage{iftex}
+\iftutex 
+        \usepackage{fontspec}
+        \setmainfont{TeX Gyre Schola}
+        \setsansfont{TeX Gyre Heros}
+        \setmonofont{TeX Gyre Cursor}
+        \usepackage{unicode-math}
+        \setmathfont{TeX Gyre Schola}
+\else
+        \usepackage{tgschola}
+        \usepackage{tgheros}
+        \usepackage{tgcursor}
+\fi
+
+\title{The Null Hypothesis}
+\author{Runxi Yu}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+
+\end{document}
+% vim: tw=72 colorcolumn=73
+
