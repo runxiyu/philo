@@ -1,0 +1,6 @@
+Music-logical offering
+
+## Canons and Fugues
+* Notes in canon themes must serve as both a melody and as a harmonization of the melody
+
+vim: tw=72
