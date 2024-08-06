@@ -1,0 +1,77 @@
+% \documentclass[ignorenonframetext, aspectratio=169]{beamer}
+\documentclass[parskip=half-]{scrartcl}
+\usepackage{beamerarticle}
+
+\usetheme{Hannover}
+
+\usepackage{tgschola}
+\usepackage{tgheros}
+% \usepackage{tgcursor}
+\usefonttheme{professionalfonts}
+\renewcommand{\familydefault}{\rmdefault}
+\usepackage{microtype}
+
+\usepackage[notes, backend=biber, useibid=true]{biblatex-chicago} % remove noibid when fixed capitalization
+\addbibresource{/home/runxiyu/phil/db.bib}
+\newcommand{\nopage}{\_\_\_\_}
+\newrobustcmd*{\Runcite}{\bibsentence\runcite}
+
+\usepackage{graphicx}
+
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=false,
+}
+
+\title{Affirmative Action, Again}
+\subtitle{\textit{Students for Fair Admissions \textup{v.}\ Harvard/UNC} (2023)}
+\author{Runxi Yu}
+\date{August 10, 2024}
+
+\begin{document}
+\maketitle
+
+\only<article>{
+	\textbf{Note:}
+	You are viewing this presentation in article mode.
+}
+
+\begin{frame}[fragile]{Miscellaneous information}
+\begin{itemize}
+	\item Except for text included within double quotation marks and text within a \verb|quote|/\verb|quotation| environment, all text in this slide show is in the public domain, available under Creative Common Zero version 1.0, or the 0-clause BSD license, at your option.
+	\item This does not mean that the entire slide show (especially images) is public domain. However, quotes of court opinions are public domain; see 17 U.\,S.\,C.\ {\S} 105 and \Runcite{banks}.
+	\item The source code of this slide show is available in \href{https://git.sr.ht/~runxiyu/philo}{\texttt{https://git.sr.ht/\~{}runxiyu/philo}}. Tarballs and rsync may be provided on-demand.
+	\item This slide show uses \texttt{biblatex-chicago} for SCOTUS-style citations, which are generally of the form ``\textit{Petitioner} v.\ \textit{Respondent}, Volume U.\,S. Start-page, Page (Year)''.
+\end{itemize}
+\end{frame}
+
+\section{Background}
+
+\begin{frame}{What is SFFA \textit{v.}\ Harvard?}
+\begin{itemize}
+	\item Harvard and UNC used to have affirmative action based on race in their admissions process.
+	\item SCOTUS ruled that's not okay. \Runcite{harvard}.
+\end{itemize}\pause
+\begin{center}\bfseries
+	Is racial affirmative action a form of undue discrimination?
+\end{center}
+\end{frame}
+
+\begin{frame}{Harvard's reasons for Affirmative Action}
+\begin{enumerate}
+	\item ``reducing the historic deficit of traditionally disfavored minorities in medical schools''
+	\item ``countering the effects of societal discrimination''
+	\item ``obtaining the educational benefits that flow from an ethnically diverse student body''
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Relevant legislation}
+\begin{description}
+	\item[Due Process Clause] ``\ldots nor shall any State deprive any person of life, liberty, or property, without due process of law.''
+	\item[Equal Protection Clause] ``All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.''
+\end{description}
+\end{frame}
+
+% \appendix
+
+\end{document}
