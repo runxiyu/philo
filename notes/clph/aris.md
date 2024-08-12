@@ -87,7 +87,8 @@ Conclusion: The one being loved requires knowledge
 * Is this dispiction of the soul of a bad person realistic?
 * Is it in conflict with Aristotle's own distinction between an akratic person
   and a base person?  
-
+* There is nothing lovable about a bad person, and hence they cannot be friends
+  with themselves or have friends
 
 ## Friendship and self-sufficiency
 
