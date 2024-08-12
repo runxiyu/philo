@@ -31,7 +31,7 @@ Conclusion: The one being loved requires knowledge
 
 * Desire, due to deficiency, is the cause of loving.
 * Deficiency is due to privation
-* PRivation presupposes something belonging to/proper to oneself
+* Privation presupposes something belonging to/proper to oneself
 
 ## Three-fold divisons of friendship
 
@@ -51,6 +51,45 @@ Conclusion: The one being loved requires knowledge
 <!-- 208 -->
 
 
+## Friendship, family, and the city
+
+* Friendships hold city-states together
+* Some legislators take it more importantly than justice
+* The extent of friendship is also the extent of justice
+
+|      Correct (Common good)      | Deviated (Private good) |
+|---------------------------------|-------------------------|
+| Kingship/father-son/superiority | Tyranny/master-slave    |
+| Aristocracy/good man-woman      | Oligarchy/bad man-woman |
+| Timocracy/polity/brotherhood    | Democracy               |
+
+### Family friendship
+
+* A human being seems to be by nature more couple-forming than political
+* Family is a more fundamental structure than city-states
+
+## Political friendship
+
+* Which kind of friendship is concord or political friendship?
+* Political friendship varies in accordance with constitutions
+* Nature of political community:
+  * People consort together for some advantage People 
+  * Come together and remain in existence
+
+## Friendship and self-love
+
+* Is friendship between different people derived from friendship with oneself?
+  * Many properties also apply
+  * Is "resemble" the same as "derive"?
+  * Can different parts of the soul love each other as two friends love each
+    other?
+* Can a bad person be his own friend?
+* Is this dispiction of the soul of a bad person realistic?
+* Is it in conflict with Aristotle's own distinction between an akratic person
+  and a base person?  
+
+
+## Friendship and self-sufficiency
 
 <!-- vim: tw=80
--->
+-
