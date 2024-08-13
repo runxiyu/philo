@@ -92,5 +92,10 @@ Conclusion: The one being loved requires knowledge
 
 ## Friendship and self-sufficiency
 
+* Why does a self-sufficient person need friends?
+  * If it is nobler to confer benefits on friends than on strangers, the
+    excellent person will need people to receive these benefits.
+  * It is presumably strange too to make a blessed person live a solitary life.
+
 <!-- vim: tw=80
--
+-->
