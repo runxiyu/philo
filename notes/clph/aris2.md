@@ -17,7 +17,15 @@ subtitle: Aristottle and his Tradition
 
 ## Kinesis (change/motion)
 
+* Raw naturalism
+  * Medical account, cause/effect
+  * New naturalism, identity, further qualitifactions of the process
+  * Subtle naturalism: further qualitifaction of the relevant process +
+    perceptual condition
 
 # Pain in Aristotle: A speculative reconstruction
 
 # Anecdotes and ethics: Theophrastus, Parrhasius, and the Forms of Life
+
+<!-- vim: tw=80
+-->
