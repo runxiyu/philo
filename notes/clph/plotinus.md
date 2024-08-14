@@ -92,5 +92,31 @@ Plotinus's arguments against divine planning
 > * Eternity of the World: The physical cosmos had no beginning in time; rather
 >   it is the eternal product of Intellect’s activity.
 
+# Plotinus on Oneness and Goodness
+
+* Plato holds that there is a pair of principles, the One and the Dyad, which
+  are the causes of Platonic Form-numbers.
+* The One plays the role of a formative principle and the Dyad plays the role
+  of the material principle.
+* The One is to be identified with the Good.
+
+* Preservative utility
+* Perfective utility
+
+* Eternal activity
+  * An activity that involves no temporal succession
+  * An activity that is timeless, as there is no change or transition
+  * Intellectual activity is eternal?
+* Temporal activity
+
+* Prior simplicity:
+  * Everything that is not purely F depends for its F-ness on what is purely F.
+  * Being one is a condition for existence.
+  * Everything that exists is either purely one or depends for its existence on
+    what is purely one.
+  * What is purely one cannot be many, i.e., a simple.
+  * Therefore, everything else depends for tis existence on what is simple.
+
+
 <!-- tw=80
 -->
