@@ -90,7 +90,21 @@ Aristotle's plural understanding of virtual.
 
 ## Spartan & Cretan education
 
+<++>
 
+## Institutions to cultivate virtue
+
+Human psychology:
+* Pleasures and pains
+* Anticipations of pleasure and pain
+* **Logismos**
+
+## Law and reason
+
+* Calculations of what is better or worse becomes law when it's about a
+  common view of a city
+* Law is a distribution of reason (or, Saunders translates it as edicts
+  of reason)
 
 <!-- vim: tw=72 nowrap
 -->
