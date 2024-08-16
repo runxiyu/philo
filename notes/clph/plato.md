@@ -190,20 +190,37 @@ How does one discover the craft of politics, or the craft of law-giving?
 
 #### The fall of the Dorian Alliance
 
-* Ultimately, only Sparta survived.
-  * Because of stupidity. (How?)
-    * What is the greatest stupidity?
-      * It's having the belief that something is fine or good, but
-        hating it rather than loving it, and loving and welcoming
-        something you think is rotten and bad.
-      * Stupidity of the Dorian Kings: Overstepped the established laws,
-        out of tune with what they had sworn and promised.
-    * How could we prevent it?
-      * Constitutions.
-      * Absolute power necessarily leads to corruption
+* Ultimately, only Sparta survived. The others failed because of
+  stupidity.
+  * What is the greatest stupidity?
+    * It's having the belief that something is fine or good, but hating
+      it rather than loving it, and loving and welcoming something you
+      think is rotten and bad.
+    * Stupidity of the Dorian Kings: Overstepped the established laws,
+      out of tune with what they had sworn and promised.
+  * How could we prevent it?
+    * Constitutions.
+    * Absolute power necessarily leads to corruption
 
-### Sparta
+### Why did Sparta succeed
 
+* Abide by due measure
+* The Spartan constitution: A measured combination of the right elements
+  * 2 kings
+  * 28 elders
+  * 5 ephors
+
+### Titltes to rule
+
+* Parent over child
+* Well born over commoner
+* Elder over younger
+* Master over slave
+* Stronger over weaker (Pindar: "by nature")
+* Wise over ignorant
+* Lottery winner over unselected
+
+(Sortition, hah)
 
 ### Athens
 
