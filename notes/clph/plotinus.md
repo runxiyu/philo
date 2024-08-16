@@ -1,4 +1,6 @@
-# Plotinus Stuff
+---
+title: Plotinus
+---
 
 **THIS FILE IS NOT PUBLIC DOMAIN.**
 

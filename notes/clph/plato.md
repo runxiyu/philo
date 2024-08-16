@@ -182,11 +182,25 @@ How does one discover the craft of politics, or the craft of law-giving?
 * Argos, Messene, and Sparta.
 * Swore an oath:
   * Would not make their rule more oppressive overtime.
+    * *well, where's the consensus on what the rules are, and what
+      oppressive means?*
   * If the above is kept, the subjects would not attempt to overthrow.
-  * Kings promised to come to the defense of any kings or people who
-    were being wronged.
-  * People promised to come to the defense of any kings or peopel who
-    were being wronged.
+  * {Kings, people} promised to come to the defense of any {kings,
+    people} who were being wronged.
+
+#### The fall of the Dorian Alliance
+
+* Ultimately, only Sparta survived.
+  * Because of stupidity. (How?)
+    * What is the greatest stupidity?
+      * It's having the belief that something is fine or good, but
+        hating it rather than loving it, and loving and welcoming
+        something you think is rotten and bad.
+      * Stupidity of the Dorian Kings: Overstepped the established laws,
+        out of tune with what they had sworn and promised.
+    * How could we prevent it?
+      * Constitutions.
+      * Absolute power necessarily leads to corruption
 
 ### Sparta
 

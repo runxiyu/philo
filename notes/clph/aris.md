@@ -1,4 +1,6 @@
-# Aristotle on love
+---
+title: Aristotle on love
+---
 
 ## Dialogue between Socrates and Lysis on parental love
 
