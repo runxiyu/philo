@@ -1,4 +1,7 @@
-# Plato's laws
+---
+title: Plato's Laws
+toc: true
+---
 
 |          | Broad       | Narrow                         |
 | -------- | ----------- | ------------------------------ |
@@ -35,6 +38,7 @@
 * Why should we obey the laws?
 
 The practical focus of *Laws* is:
+
 > How to build a city that works, for all its citizens, and that
 > will survive the test of time.
 
@@ -67,6 +71,7 @@ Athenian proposes two conditions:
   that will secure their friendship with each other for the future.
 
 Strauss thinks that the third option is worst <++>
+
 > Strauss argued that Plato's myth of the philosopher king should be
 > read as a reductio ad absurdum, and that philosophers should
 > understand politics not in order to influence policy but to ensure
@@ -105,6 +110,88 @@ Human psychology:
   common view of a city
 * Law is a distribution of reason (or, Saunders translates it as edicts
   of reason)
+
+## The origin of the Politeia
+
+How does one discover the craft of politics, or the craft of law-giving?
+
+* How do cities come to be?
+* How long have *cities* been in existence?
+
+### The flood hypothesis
+
+* The many tales of destruction visited upon humanity, by floods,
+  plagues, and many other things, after which only a small remnant of
+  the human species is left behind.
+
+### The structure of book three
+
+* After the flood: foundations
+* Sparta
+  * A success story
+  * The greatest ignorance
+* Persia
+  * The mixed constitutions
+  * Moderation in Sparta (well, the value in the political culture)
+* Athens
+
+### After the flood, before the descent
+
+* Physical items, i.e. tools and instruments, have perished
+* "The craft of politics and other field of knowledge... were gone"
+* The lack but the need of lawgiving
+* Autocracy (dunasteia) exists
+  * A single person
+* How is it a politeia?
+  * Rule (arche)
+  * Politeia as an expansion of ancestral law
+* The truest form of kingship?
+  * The concept of a Basilera
+  * Monarchical rule, rather than patriatrical rule
+  * This primitive natural form of human society is not 
+
+### The descent
+
+* Isolation between settlements due to each having its own eldest member
+  as ruler and their distinctive customs
+* Each group would find its own norms satisfactory and prefer them to
+  those of other groups
+* "We have stumbled upon the origin of lawgiving, even without knowing
+  it."
+
+#### The original lawgiving
+
+* "Jointly review various practices (nomima)
+* Having the incentive to choose norms that work for the whole group
+* Note that the original lawgiging is *replicated* by the introduction
+  of the three interlocutors, raised under such distinguished laws.
+
+### The third phase
+... in which... every kind of political system and polity arises
+
+* The fall of Troy
+* Revolts (e.g. Achaens to Dorians)
+
+#### The formation of Sparta
+
+* What is a good foundation for a city?
+* Reverse engineering the success stories of cities
+
+#### The Dorian Alliance
+
+* Argos, Messene, and Sparta.
+* Swore an oath:
+  * Would not make their rule more oppressive overtime.
+  * If the above is kept, the subjects would not attempt to overthrow.
+  * Kings promised to come to the defense of any kings or people who
+    were being wronged.
+  * People promised to come to the defense of any kings or peopel who
+    were being wronged.
+
+### Sparta
+
+
+### Athens
 
 <!-- vim: tw=72 nowrap
 -->
