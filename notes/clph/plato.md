@@ -210,7 +210,7 @@ How does one discover the craft of politics, or the craft of law-giving?
   * 28 elders
   * 5 ephors
 
-### Titltes to rule
+### Titles to rule
 
 * Parent over child
 * Well born over commoner
@@ -222,7 +222,53 @@ How does one discover the craft of politics, or the craft of law-giving?
 
 (Sortition, hah)
 
-### Athens
+### More virtues of a Politea
+"The city must be free, must be wise, and must be a friend to itself"
 
-<!-- vim: tw=72 nowrap
+### Persia
+
+* Due measure of rule
+* The triple goal
+  * Law must not establish positions of greatand unmixed ruling
+    authority
+  * The city must be free, intelligent, and a friend to itself
+
+* Two mother constitutions
+  * Any political system to achieve the triple goals need a mix of
+    democracy and monarchy.
+  * The persians take monarchy, and the Athenians take democracy.
+
+* The elements of a politeia
+  * Monarchy  
+    There is an essential connection between despoteia and douleia:
+    being in servitude is being in servitude to someone, it is not
+    free-form and abstract condition.
+    * Despotism
+    * Servitude
+  * Democracy
+    * Freedom
+  * Persiah as total despotism, Athens has total freedom
+
+* Persia under Cyrus: The paradox of Persian freedom
+  * Allowing freedom of speech leads to friendship and communal
+    intelligence.
+  * Epistemic equality
+  * I can make better decisions when I can draw on the advice!
+
+> Every Athenian enjoys equality before the law, and no one who is able
+> to perform good service for the city is prevented by his humble
+> station from doing so.
+
+* Persian decline
+  * By taking away too much freedom and bringing too much despotism,
+    they destroyed friendship and community
+  * Rulers disregard the interests of their subjects and solely try to
+    remain in power
+
+* Athens in the first Persian War
+  * Athenians are on the receiving end on this big geopolitical conflict
+    (its attempts to take the Greek mainland into its own empire).
+
+
+<!-- vim: tw=72 nowrap sw=2 ts=2 expandtab autoindent
 -->
