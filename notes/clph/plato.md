@@ -268,6 +268,13 @@ How does one discover the craft of politics, or the craft of law-giving?
 * Athens in the first Persian War
   * Athenians are on the receiving end on this big geopolitical conflict
     (its attempts to take the Greek mainland into its own empire).
+  * The deespotism introduced when people were conscripted to fight, it
+    imbued us with a strong sense of friendship.
+  * > The Spartans are free, but not in all matters, since law is their
+    > despot
+  * hmm
+
+* 
 
 
 <!-- vim: tw=72 nowrap sw=2 ts=2 expandtab autoindent
