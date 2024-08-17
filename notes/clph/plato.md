@@ -272,9 +272,18 @@ How does one discover the craft of politics, or the craft of law-giving?
     imbued us with a strong sense of friendship.
   * > The Spartans are free, but not in all matters, since law is their
     > despot
-  * hmm
 
-* 
+* What Athenian history shows:
+  * Establishing complete freedom from all rule is considerably worse than
+    an appropriate measure of rule by others
+
+* Willing servitude
+  * Rosseau
+  * Willing servitude to the laws in effect
+  * But the concept of willing servitude depends on the ability to leave
+    the city and establish a life external to it
+  * Being ruled is still a reduction in the autonomy of the ruled
+
 
 
 <!-- vim: tw=72 nowrap sw=2 ts=2 expandtab autoindent
