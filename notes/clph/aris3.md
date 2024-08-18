@@ -9,3 +9,5 @@ title: Natural philosophy in Aristotle
 * Mathematics: Arithmetric, plane geometry, volumetric geometry
   * The object is abstractly unchanging and undetachable
   * Mathematics does not "exist", it is an abstraction of reality
+  * Mathematics is not natural science
+
