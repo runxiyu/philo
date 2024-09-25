@@ -1,19 +1,28 @@
 % !TeX program = lualatex
 
-\documentclass[parskip=full,12pt,oneside,a5paper]{scrbook}
+\documentclass[parskip=full,12pt,oneside,openany,a5paper,numbers=endperiod]{scrbook}
 \pdfvariable suppressoptionalinfo \numexpr1+2+4+8+16+32+64+128+256+512\relax
 
 \usepackage{fontspec}
 \setmainfont{TeX Gyre Schola}
 \setsansfont{TeX Gyre Heros}
-\usepackage[scheme=plain]{ctex}
+\usepackage[scheme=plain,fontset=fandol]{ctex}
 \setCJKmainfont{Noto Serif CJK SC}
 \setCJKsansfont{Noto Sans CJK SC}
+\usepackage{microtype}
+
+\usepackage{unicode-math}
+\setmathfont{TeX Gyre Schola Math}
+\usepackage{amsmath}
+
+\usepackage{rotating}
+
+\usepackage[colorlinks,allcolors=black]{hyperref}
 
 \begin{document}
 \title{Meltsand}
 \author{Runxi Yu}
-\date{2022--2024}
+\date{2024}
 \maketitle
 \tableofcontents
 
@@ -156,5 +165,82 @@ I print a sticker in 12-point Century font:\\
 and stick it onto the wrapper.
 
 Here you go. Your gift.
+
+\chapter{There is no love}
+
+\begingroup
+\fontsize{50}{60}\selectfont
+\begin{align*}
+	\nexists\,\text{love}
+\end{align*}
+\endgroup
+
+\rotatebox[origin=c]{180}{%
+	\begin{minipage}[t]{\linewidth}
+		But actually, \(\exists\,\text{y}\in\{x\,|\,\text{love} \backslash x\}\).
+	\end{minipage}
+}
+
+\chapter{The multiplicity returns}
+
+May the ashes of my heart drift gently into the abyss of memory,
+and let that memory consolidate.
+A bright dot embellishing that unicorn's horn.
+Then that glimmer of light shall decay, vaporize, and taint the glass walls of my body.
+Gently running a cloth under my skin,
+I wipe away every atom.
+Every, single, one.
+I stare at the cloth,
+with rainbows seeping into its fabric,
+assimilating into my body yet again.
+
+\chapter{Sinus beat}
+
+When my last sinus cell fires,\\
+I shall still be alive.
+
+When the door shuts,\\
+The lights switched off,\\
+The candle goes out,\\
+The unicorn shattered,\\
+The tuplips shiver in the austere cold,
+
+When my chest wall collapses,\\
+When the last drop of blood is pumped through my aorta,\\
+I shall still be alive
+
+\chapter{The Onion}
+
+I peeled the onion\\
+A layer shredded\\
+Sent to oblision\\
+Yet I dreaded\\
+The heart of\\
+The warped\\
+Onion
+
+With tis stained magenta glass surface\\
+Amalgamating with every droplet\\
+Of tears\\
+Into each word engraved in my sight
+
+I dropped the onion
+
+Destitute of hope and love and faith
+
+I walked away
+
+I turned back
+
+I picked it up again.
+
+\chapter{Words and ink}
+
+It is, I suppose, a particular kind of catharsis. The kind that lets me grasp
+my chest and squeeze the blood out of it and experience some sort of, well,
+exhilarating pain. Pain that feels like it could transcend my physical
+existence, my experience of being part of a society, and the limitations of
+being a human being. It's a powerful form of escape, one that I fear when
+sober, but cling on to when desperate.
 
 \end{document}
